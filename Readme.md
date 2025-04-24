@@ -20,6 +20,7 @@ This project combines deep learning and image processing to recognize and solve 
 ## 🧠 Model Training (`Model_Training/Model.ipynb`)
 
 A CNN model is trained to recognize handwritten digits (0–9) using data generators with data augmentation for robustness.
+- **Note**: Source of the Data is from Roboflow and Kaggle. 
 
 ### Key Components:
 - `ImageDataGenerator` for data preprocessing and augmentation
