@@ -1,7 +1,8 @@
 
 ## 🧩 DeepSudo_Solver - Sudoku Solver with Deep Learning & Streamlit
 
-This project combines deep learning and image processing to recognize and solve Sudoku puzzles from images, CSV files, or manual input. The app is powered by a Convolutional Neural Network (CNN) for digit recognition and uses classical backtracking to solve the puzzle. Built with **TensorFlow**, **OpenCV**, and **Streamlit**.
+This project combines deep learning and image processing to recognize and solve Sudoku puzzles from images, CSV files, or manual input. The app is powered by a Convolutional Neural Network (CNN) for digit recognition and uses classical backtracking to solve the puzzle. 
+Built with **TensorFlow**, **OpenCV**, and **Streamlit**.
 
 ---
 
